@@ -1,0 +1,283 @@
+/* first Format */
+:root {
+
+    background-color: transparent;
+}
+button {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    font-style:normal;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+
+.php {
+    border-radius: 10px;
+    background-color: pink;
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.jquery {
+    border-radius: 10px;
+    background-color: rgb(224, 224, 215);
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.java {
+
+    border-radius: 10px;
+    background-color: rgb(218, 231, 190);
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.c1 {
+    border-radius: 10px;
+    background-color: rgb(177, 197, 179);
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+/* second format */
+.c {
+    border-radius: 10px;
+    background-color: rgb(248, 200, 222);
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.c2 {
+    border-radius: 10px;
+    background-color: rgb(229, 217, 140);
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+    /* Third--- format */
+
+.r {
+    border-radius: 10px;
+    background-color: pink;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.kotlin {
+    border-radius: 10px;
+    background-color: rgb(128, 167, 145);
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.react {
+    border-radius: 10px;
+    background-color: rgb(216, 155, 89);
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.nodejs {
+    border-radius: 10px;
+    background-color: rgb(85, 212, 195);
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.json {
+    border-radius: 10px;
+    background-color: rgb(210, 215, 132);
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.vue {
+    border-radius: 10px;
+    background-color: pink;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.mysql {
+    border-radius: 10px;
+    background-color: rgb(157, 214, 205);
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.xml {
+    border-radius: 10px;
+    background-color: rgb(129, 141, 188);
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.sass {
+    border-radius: 10px;
+    background-color: grey;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.icons {
+    border-radius: 10px;
+    background-color: goldenrod;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.rwd {
+    border-radius: 10px;
+    background-color: pink;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.graphics {
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.svg {
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.canvas {
+    border-radius: 10px;
+    background-color: grey;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.git {
+    border-radius: 10px;
+    background-color: goldenrod;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.mangodb {
+    border-radius: 10px;
+    background-color: pink;
+    width: 180px;
+    height: 60px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+/* fourth format */
+.ml {
+    border-radius: 10px;
+    background-color: rgb(112, 189, 189);
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.AI {
+    border-radius: 10px;
+    background-color: rgb(212, 203, 121);
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin: 30px 50px;
+    display: inline-block;
+    text-align: center;
+}

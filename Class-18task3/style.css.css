@@ -1,0 +1,206 @@
+/* first Format */
+:root{
+
+    background-color:transparent;
+}
+button{width: 100px;height: 30px;
+    border-radius: 20px;
+    background-color:rgb(240, 70, 70);}
+ .php{border-radius: 5px;
+     background-color: pink;
+      width: 500px; height: 200px;
+      padding:10px;
+      margin: 30px 50px;
+      display: inline-block;
+      box-shadow: 5px 5px 20px 5px rgb(253, 109, 61);
+      text-align: left;}
+ .jquery{border-radius: 5px;
+       background-color:lightgoldenrodyellow;
+         width: 500px; height: 200px;
+         padding:10px;
+         margin: 30px 50px;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(253, 109, 61);
+         text-align: right;}
+ .java{border-radius: 5px ;
+        background-color:black ;
+         width: 500px; height: 200px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(33, 17, 212);
+         text-align: center;}
+ .c1{border-radius: 5px;
+        background-color: grey;
+         width: 500px; height: 200px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(33, 17, 212);
+         text-align: justify;}
+
+         /* second format */
+ .c{border-radius: 5px;
+        background-color: aqua;
+         width: 500px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(10, 209, 33);
+         text-align: center;}
+ .c2{border-radius: 5px;
+         background-color:brown;
+         width: 500px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(10, 209, 33);
+         
+         /* Third format */
+         text-align: center;}
+ .r{border-radius: 5px;
+         background-color: pink;
+         width: 170px; height: 50px;
+         padding:10px; 
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .kotlin{border-radius: 5px;
+         background-color:cornflowerblue;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .react{border-radius: 5px;
+         background-color: yellow;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .nodejs{border-radius: 5px;
+         background-color:gray;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .json{border-radius: 5px;
+         background-color: goldenrod;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .vue{border-radius: 5px;
+         background-color:pink ;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .mysql{border-radius: 5px;
+         background-color: cornflowerblue;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .xml{border-radius: 5px;
+         background-color: yellow;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .sass{border-radius: 5px;
+         background-color: grey;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .icons{border-radius: 5px;
+         background-color:goldenrod ;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .rwd{border-radius: 5px;
+         background-color:pink ;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .graphics{border-radius: 5px;
+         background-color: cornflowerblue;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .svg{border-radius: 5px;
+         background-color:black ;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .canvas{border-radius: 5px;
+         background-color:grey ;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .git{border-radius: 5px;
+         background-color: goldenrod;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+ .mangodb{border-radius: 5px;
+         background-color: pink;
+         width: 170px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(249, 132, 240);
+         text-align: center;}
+
+         /* fourth format */
+   .ml{border-radius: 5px;
+         background-color:coral ;
+         width: 500px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(221, 239, 24);
+         text-align: center;}
+   .AI{border-radius: 5px;
+         background-color:darksalmon ;
+         width: 500px; height: 50px;
+         padding:10px;
+         margin: 30px 50px ;
+         display: inline-block;
+         box-shadow: 5px 5px 20px 5px rgb(221, 239, 24);
+         text-align: center;}
